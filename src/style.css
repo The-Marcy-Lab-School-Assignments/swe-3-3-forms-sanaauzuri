@@ -99,6 +99,12 @@ fieldset>div {
   gap: 8px;
 }
 
+.special-req {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 textarea {
   padding: 10px;
   min-height: 100px;
