@@ -18,7 +18,7 @@ Acessibility means ensuring that everyone can use something, regardless of disab
 
 `for`: The `for` attribute on a label connects to a matching `id` attribute on `<input>` so screen readers can tell which label belongs to which field.\
 `name`: The `name` attribute labels the data when a form is submitted. For example, `name="email"` tells the server that the submitted value is the user's email.\
-`id`: The `id` attribute gives an element a unique id so it can either be connected to a label, or styled with CSS.
+`id`: The `id` attribute gives an element a unique id so it can either be connected to a label, or styled with `CSS`.
 
 ## Question 3: Input Types
 
